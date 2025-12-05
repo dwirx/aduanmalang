@@ -1,0 +1,2990 @@
+====================================================================================================
+CCTV MALANG - DATA LENGKAP DAN TERORGANISIR
+====================================================================================================
+Generated: 2025-10-10 05:32:39
+Total Kamera: 269
+====================================================================================================
+
+
+========================= DISTRIK BLIMBING =========================
+Total Kamera: 59
+===========================================================================
+
+  1. Jl. Letjen S. Parman Arah Utara
+     Stream ID: 637253114452609264665590
+     Alamat: GKJW Waru,, Purwantoro, , , , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=637253114452609264665590
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/637253114452609264665590.m3u8
+     Koordinat: -7.9516399570327, 112.63919951939
+---------------------------------------------------------------------------
+
+  2. Jl. Borobudur Arah Barat
+     Stream ID: 307023650278212238808482
+     Alamat: Jl. A. Yani No.17, RW.02, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=307023650278212238808482
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/307023650278212238808482.m3u8
+     Koordinat: -7.9416950782559, 112.64203512082
+---------------------------------------------------------------------------
+
+  3. Jl. Panji Suroso Arah Utara
+     Stream ID: 884548119530974853338399
+     Alamat: Jl. Raden Panji Suroso No.8g, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=884548119530974853338399
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/884548119530974853338399.m3u8
+     Koordinat: -7.9322357759493, 112.64993749254
+---------------------------------------------------------------------------
+
+  4. Jl. Raden Intan Arah Timur
+     Stream ID: 712057197220164117651869
+     Alamat: Jl. Raden Intan No.1, Arjosari, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=712057197220164117651869
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/712057197220164117651869.m3u8
+     Koordinat: -7.9331417417516, 112.65815011001
+---------------------------------------------------------------------------
+
+  5. Jl. L.A Sucipto Arah Timur (Rel Kereta)
+     Stream ID: 383058139820804059897454
+     Alamat: Jl. Laksda Adi Sucipto No.36a, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=383058139820804059897454
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/383058139820804059897454.m3u8
+     Koordinat: -7.9415939481937, 112.64432260627
+---------------------------------------------------------------------------
+
+  6. Jl. A. Yani Arah Selatan (Fly Over)
+     Stream ID: 957992467319427676437983
+     Alamat: KPRI Yustisia Pengadilan Negeri Malang, Polowijen, , , , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=957992467319427676437983
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/957992467319427676437983.m3u8
+     Koordinat: -7.9294328515218, 112.64884897849
+---------------------------------------------------------------------------
+
+  7. Jl. A Yani Arah Utara (Masjid Sabilillah)
+     Stream ID: 719653317344542196173839
+     Alamat: Jl. A. Yani No.19, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65125
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=719653317344542196173839
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/719653317344542196173839.m3u8
+     Koordinat: -7.9415921968143, 112.64225097144
+---------------------------------------------------------------------------
+
+  8. Jl. Ahmad Yani Arah Utara
+     Stream ID: 178242276523301631131466
+     Alamat: Jl. A. Yani No.37, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=178242276523301631131466
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/178242276523301631131466.m3u8
+     Koordinat: -7.9406434237077, 112.64263210443
+---------------------------------------------------------------------------
+
+  9. Jl. Raden Panji Suroso Arah Selatan
+     Stream ID: 654598878424524457231701
+     Alamat: Jl. Raden Panji Suroso No.21, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=654598878424524457231701
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/654598878424524457231701.m3u8
+     Koordinat: -7.9355883653782, 112.64971840569
+---------------------------------------------------------------------------
+
+ 10. Jl. Sunandar Priyo Sudarmo Arah Selatan
+     Stream ID: 436037012487980953940187
+     Alamat: Jl. Letnan Jenderal Sunandar Priyo Sudarmo No.31c, Keduyo, Purwantoro, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=436037012487980953940187
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/436037012487980953940187.m3u8
+     Koordinat: -7.9572207868104, 112.64401245585
+---------------------------------------------------------------------------
+
+ 11. Jl. Raya Balearjosari Arah Utara
+     Stream ID: 984300820927127330245429
+     Alamat: Unnamed Road, Balearjosari, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=984300820927127330245429
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/984300820927127330245429.m3u8
+     Koordinat: -7.9252397352771, 112.650938367
+---------------------------------------------------------------------------
+
+ 12. Jl. Panji Suroso Arah Selatan
+     Stream ID: 323299835038577603023529
+     Alamat: Jl. Raden Panji Suroso No.8g, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=323299835038577603023529
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/323299835038577603023529.m3u8
+     Koordinat: -7.9323745503225, 112.64989777426
+---------------------------------------------------------------------------
+
+ 13. Jl. Terusan Sulfat Arah Barat
+     Stream ID: 212852265924619178576872
+     Alamat: Jl. Terusan Sulfat No.69, Pandanwangi, , , , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=212852265924619178576872
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/212852265924619178576872.m3u8
+     Koordinat: -7.9648242672158, 112.65724367439
+---------------------------------------------------------------------------
+
+ 14. Jl. Raden Intan Arah Barat
+     Stream ID: 053338675520352467621994
+     Alamat: Jl. Raden Intan No.5, RT.02, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=053338675520352467621994
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/053338675520352467621994.m3u8
+     Koordinat: -7.9301999522752, 112.65062387599
+---------------------------------------------------------------------------
+
+ 15. Jl. Juanda Arah Timur
+     Stream ID: 121335965337329637078039
+     Alamat: Jl. Ir. H. Juanda No.1b, Jodipan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=121335965337329637078039
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/121335965337329637078039.m3u8
+     Koordinat: -7.9832375841373, 112.63715869748
+---------------------------------------------------------------------------
+
+ 16. Jl. Panji Suroso Arah Timur
+     Stream ID: 196782209615539550198936
+     Alamat: Jl. Raden Panji Suroso No.8g, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=196782209615539550198936
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/196782209615539550198936.m3u8
+     Koordinat: -7.9322898596193, 112.64992025405
+---------------------------------------------------------------------------
+
+ 17. Jl. A Yani Utara
+     Stream ID: 195874189915723862555674
+     Alamat: Taman kendedes, Jl. A. Yani No.252, Purwodadi, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=195874189915723862555674
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/195874189915723862555674.m3u8
+     Koordinat: -7.9254333849433, 112.65102476912
+---------------------------------------------------------------------------
+
+ 18. Jl. Sudirman Arah Utara
+     Stream ID: 366629122294580263258917
+     Alamat: Jl. Panglima Sudirman No.27, Kesatrian, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=366629122294580263258917
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/366629122294580263258917.m3u8
+     Koordinat: -7.9736465799843, 112.63850530227
+---------------------------------------------------------------------------
+
+ 19. Jl. A. Yani Arah Utara
+     Stream ID: 300544351200121565371840
+     Alamat: Jl. Jend. Ahmad Yani Utara No.21, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=300544351200121565371840
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/300544351200121565371840.m3u8
+     Koordinat: -7.9292582728922, 112.6487715069
+---------------------------------------------------------------------------
+
+ 20. Jl. Mayjen Wiyono Arah Barat
+     Stream ID: 265177373892113388572492
+     Alamat: Jl. Mayjen.M.Wiyono No.25, Polehan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65121
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=265177373892113388572492
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/265177373892113388572492.m3u8
+     Koordinat: -7.97903210018, 112.64921650233
+---------------------------------------------------------------------------
+
+ 21. Jl. Tumenggung Suryo Arah Utara
+     Stream ID: 444403449139429455057068
+     Alamat: Jl. R. Tumenggung Suryo No.18-2, Bunulrejo, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=444403449139429455057068
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/444403449139429455057068.m3u8
+     Koordinat: -7.9668594204155, 112.63858632769
+---------------------------------------------------------------------------
+
+ 22. Jl. Ahmad Yani Arah Selatan
+     Stream ID: 348389393952249311802450
+     Alamat: Jl. A. Yani No.62, RW.02, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=348389393952249311802450
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/348389393952249311802450.m3u8
+     Koordinat: -7.9408167597241, 112.64265873793
+---------------------------------------------------------------------------
+
+ 23. Jl. Letjen S. Parman Arah Selatan
+     Stream ID: 810133524862588268334710
+     Alamat: Jl. Ciliwung No.1b, Purwantoro, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65122
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=810133524862588268334710
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/810133524862588268334710.m3u8
+     Koordinat: -7.951925116872, 112.63914091657
+---------------------------------------------------------------------------
+
+ 24. Jl. Basuki Rahmat Arah Selatan
+     Stream ID: 876263708687156206364361
+     Alamat: Jl. Polowijen II No.314, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=876263708687156206364361
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/876263708687156206364361.m3u8
+     Koordinat: -7.9744003771114, 112.62979392116
+---------------------------------------------------------------------------
+
+ 25. Jl. Hamid Rusdi Arah Barat
+     Stream ID: 760985375028014640425523
+     Alamat: Jl. Hamid Rusdi Tim. No.317, Bunulrejo, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=760985375028014640425523
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/760985375028014640425523.m3u8
+     Koordinat: -7.9731487192918, 112.64635676426
+---------------------------------------------------------------------------
+
+ 26. Jl. Ciliwung Arah Timur
+     Stream ID: 837266608824147804260618
+     Alamat: Jl. Ciliwung No.1b, Purwantoro, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65122
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=837266608824147804260618
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/837266608824147804260618.m3u8
+     Koordinat: -7.9518304312845, 112.63923584558
+---------------------------------------------------------------------------
+
+ 27. Jl. Martadinata Arah Selatan
+     Stream ID: 006065046819333616502324
+     Alamat: Jl. Martadinata No.1, Jodipan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65118
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=006065046819333616502324
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/006065046819333616502324.m3u8
+     Koordinat: -7.9872651424444, 112.63563623857
+---------------------------------------------------------------------------
+
+ 28. Jl. L.A Sucipto Arah Timur
+     Stream ID: 506397672406115725994991
+     Alamat: Jl. A. Yani No.62, RW.02, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=506397672406115725994991
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/506397672406115725994991.m3u8
+     Koordinat: -7.9407759934185, 112.6427713907
+---------------------------------------------------------------------------
+
+ 29. Jl. Raden Panji Suroso Arah Utara
+     Stream ID: 563924488881364781254566
+     Alamat: Jl. Raden Panji Suroso No.59a, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=563924488881364781254566
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/563924488881364781254566.m3u8
+     Koordinat: -7.9435549315168, 112.648303373
+---------------------------------------------------------------------------
+
+ 30. Jl. Terusan Sulfat Arah Timur
+     Stream ID: 778411640624267613516944
+     Alamat: Jl. Terusan Sulfat No.69, Pandanwangi, , , , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=778411640624267613516944
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/778411640624267613516944.m3u8
+     Koordinat: -7.9649247039489, 112.65728096499
+---------------------------------------------------------------------------
+
+ 31. Jl. Sunandar Priyo Sudarmo Arah Selatan
+     Stream ID: 203640532758420394752179
+     Alamat: Jl. Laksda Adi Sucipto No.140, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=203640532758420394752179
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/203640532758420394752179.m3u8
+     Koordinat: -7.9438264600773, 112.64818537254
+---------------------------------------------------------------------------
+
+ 32. Jl. Sunandar Priyo Sudarmo Arah Utara
+     Stream ID: 751339154948054004733945
+     Alamat: Jl. Letnan Jenderal Sunandar Priyo Sudarmo No.31d, Keduyo, Purwantoro, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=751339154948054004733945
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/751339154948054004733945.m3u8
+     Koordinat: -7.9570925856076, 112.64406293573
+---------------------------------------------------------------------------
+
+ 33. Jl. Sulfat Arah Timur
+     Stream ID: 094128667156650236847266
+     Alamat: Jl. Letnan Jenderal Sunandar Priyo Sudarmo No.77, Keduyo, Purwantoro, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=094128667156650236847266
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/094128667156650236847266.m3u8
+     Koordinat: -7.9571667661816, 112.64415166415
+---------------------------------------------------------------------------
+
+ 34. Jl. Ranugrati Arah Timur
+     Stream ID: 192069978703913981773581
+     Alamat: Jl. Ranugrati No.20, Polehan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65121
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=192069978703913981773581
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/192069978703913981773581.m3u8
+     Koordinat: -7.9790684038531, 112.64943316554
+---------------------------------------------------------------------------
+
+ 35. Jl. Gatot Subroto Arah Selatan
+     Stream ID: 239025669818857831915521
+     Alamat: Indiana Guna Aneka Warna, Kesatrian, , , , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=239025669818857831915521
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/239025669818857831915521.m3u8
+     Koordinat: -7.9809990571082, 112.63789356981
+---------------------------------------------------------------------------
+
+ 36.  Jl. Laksda Adi Sucipto Arah Timur
+     Stream ID: 340493797437204668929658
+     Alamat: Jl. Laksda Adi Sucipto No.161, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=340493797437204668929658
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/340493797437204668929658.m3u8
+     Koordinat: -7.943790038499, 112.64836138797
+---------------------------------------------------------------------------
+
+ 37. Jl. Gatot Subroto Arah Selatan
+     Stream ID: 192101052696608982929523
+     Alamat: Jl. Gatot Subroto No.38, Jodipan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65118
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=192101052696608982929523
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/192101052696608982929523.m3u8
+     Koordinat: -7.9832088702797, 112.63701272616
+---------------------------------------------------------------------------
+
+ 38. Jl. Urip Sumoharjo Arah Timur
+     Stream ID: 490601680936121642601185
+     Alamat: PT AGF General Insurance Cabang Malang, Jl. Panglima Sudirman No.27, Kesatrian, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=490601680936121642601185
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490601680936121642601185.m3u8
+     Koordinat: -7.9734726714543, 112.63840644718
+---------------------------------------------------------------------------
+
+ 39. Jl. Raden Intan Arah Timur
+     Stream ID: 925153886443577207350912
+     Alamat: Jl. Jend. Ahmad Yani Utara No.21, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=925153886443577207350912
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/925153886443577207350912.m3u8
+     Koordinat: -7.9291574562534, 112.64881969448
+---------------------------------------------------------------------------
+
+ 40. Jl .Tumenggung Suryo Arah Utara
+     Stream ID: 966506717989378844885521
+     Alamat: Jl. Raden Tumenggung Suryo No.70, Purwantoro, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65122
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=966506717989378844885521
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/966506717989378844885521.m3u8
+     Koordinat: -7.9610105904316, 112.64198109359
+---------------------------------------------------------------------------
+
+ 41. Jl. Urip Sumoharjo Arah Barat
+     Stream ID: 498383745389554459491639
+     Alamat: Jl. Simpang Kesatrian No.6, Keduyo, Kesatrian, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65121
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=498383745389554459491639
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/498383745389554459491639.m3u8
+     Koordinat: -7.9774681732751, 112.64342693784
+---------------------------------------------------------------------------
+
+ 42. Jl. A Yani Arah Selatan (Masjid Sabilillah)
+     Stream ID: 982131430615781858979987
+     Alamat: Jl. A. Yani No.26f, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=982131430615781858979987
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/982131430615781858979987.m3u8
+     Koordinat: -7.9419060164408, 112.64210819678
+---------------------------------------------------------------------------
+
+ 43. Jl. Raden Intan Arah Barat
+     Stream ID: 902490552268458858290479
+     Alamat: Jl. Raden Intan No.7, Arjosari, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=902490552268458858290479
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/902490552268458858290479.m3u8
+     Koordinat: -7.9330458923099, 112.65808259375
+---------------------------------------------------------------------------
+
+ 44. Jl. Zainal Zakse Arah Barat
+     Stream ID: 420501415743258073902708
+     Alamat: Jl. Zaenal Zakse No.89, Jodipan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65136
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=420501415743258073902708
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/420501415743258073902708.m3u8
+     Koordinat: -7.9887092508954, 112.63863498137
+---------------------------------------------------------------------------
+
+ 45. Jl. Zainal Zakse Arah Timur
+     Stream ID: 505886570472987236280044
+     Alamat: Jl. Zaenal Zakse No.5, Jodipan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65137
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=505886570472987236280044
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/505886570472987236280044.m3u8
+     Koordinat: -7.9871937968553, 112.63592515072
+---------------------------------------------------------------------------
+
+ 46. Jl. Juanda Arah Utara
+     Stream ID: 247723564512685003488446
+     Alamat: Jl. Muharto No.1, Jodipan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=247723564512685003488446
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/247723564512685003488446.m3u8
+     Koordinat: -7.9887376059222, 112.63890588448
+---------------------------------------------------------------------------
+
+ 47. Jl. Mayjen Wiyono Arah Timur
+     Stream ID: 973041049647521784083717
+     Alamat: Jl. Kesatrian No.2, Kesatrian, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65123
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=973041049647521784083717
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/973041049647521784083717.m3u8
+     Koordinat: -7.9775254589273, 112.6435220588
+---------------------------------------------------------------------------
+
+ 48. Jl. Raden Intan Arah Timur (Fly Over)
+     Stream ID: 952288135276230173551358
+     Alamat: Jl. Raden Intan No.1, Polowijen, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=952288135276230173551358
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/952288135276230173551358.m3u8
+     Koordinat: -7.9292115596994, 112.64901670874
+---------------------------------------------------------------------------
+
+ 49. Jl. Terusan Sulfat Arah Timur
+     Stream ID: 753337323046986013041375
+     Alamat: Jl. Terusan Sulfat No.5, Pandanwangi, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65122
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=753337323046986013041375
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/753337323046986013041375.m3u8
+     Koordinat: -7.9656329828642, 112.6575678448
+---------------------------------------------------------------------------
+
+ 50. Jl. Panji Suroso Arah Selatan
+     Stream ID: 466452347587002114136805
+     Alamat: JL. R. Panji Suroso No.18, Malang, East Java , Polowijen, , Malang City, East Java 65126, Indonesia, Kec. Blimbing, 65125
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=466452347587002114136805
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/466452347587002114136805.m3u8
+     Koordinat: -7.9303282640499, 112.65073911879
+---------------------------------------------------------------------------
+
+ 51. Jl. Gatot Subroto Arah Utara (Jembatan Brantas)
+     Stream ID: 717880005188495257691864
+     Alamat: Jl. Gatot Subroto No.1, Jodipan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65118
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=717880005188495257691864
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/717880005188495257691864.m3u8
+     Koordinat: -7.9829624402492, 112.63707992976
+---------------------------------------------------------------------------
+
+ 52. Jl. Untung Suropati Arah Timur
+     Stream ID: 427283423567089689597287
+     Alamat: Jl. Panglima Sudirman No.30, Kesatrian, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=427283423567089689597287
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/427283423567089689597287.m3u8
+     Koordinat: -7.9809071060389, 112.63792468473
+---------------------------------------------------------------------------
+
+ 53. Jl. Raden Panji Suroso Arah Utara
+     Stream ID: 044906552951351361548373
+     Alamat: Jl.  Indah Megah No.1, Purwodadi, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=044906552951351361548373
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/044906552951351361548373.m3u8
+     Koordinat: -7.9361586934758, 112.65037504027
+---------------------------------------------------------------------------
+
+ 54. Jl. Sulfat Arah Barat
+     Stream ID: 291829988431200667846093
+     Alamat: Jl. Sulfat No.177, Purwantoro, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=291829988431200667846093
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/291829988431200667846093.m3u8
+     Koordinat: -7.9630496097715, 112.65475985244
+---------------------------------------------------------------------------
+
+ 55. Jl. Laksda Adi Sucipto Arah Barat
+     Stream ID: 272315206096758266726516
+     Alamat: Jl. Laksda Adi Sucipto No.151, , , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=272315206096758266726516
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/272315206096758266726516.m3u8
+     Koordinat: -7.9436808088967, 112.64812513013
+---------------------------------------------------------------------------
+
+ 56. Jl. Kesatrian Arah Utara
+     Stream ID: 786150212613240322734192
+     Alamat: Jl. Simpang Kesatrian No.6, Keduyo, Kesatrian, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65121
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=786150212613240322734192
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/786150212613240322734192.m3u8
+     Koordinat: -7.9774600837325, 112.64349334693
+---------------------------------------------------------------------------
+
+ 57. Jl. Muharto Arah Timur
+     Stream ID: 023076357712194374375085
+     Alamat: Jl. Muharto No.1, Jodipan, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=023076357712194374375085
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/023076357712194374375085.m3u8
+     Koordinat: -7.9889135431247, 112.63888729389
+---------------------------------------------------------------------------
+
+ 58. Jl .Tumenggung Suryo Arah Selatan
+     Stream ID: 795110064442531890711535
+     Alamat: Jl. Raden Tumenggung Suryo No.70, Purwantoro, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65122
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=795110064442531890711535
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/795110064442531890711535.m3u8
+     Koordinat: -7.9610427987875, 112.64196317727
+---------------------------------------------------------------------------
+
+ 59. Jl. LA Sucipto Arah Barat (Perbatasan)
+     Stream ID: 537255318919087826651532
+     Alamat: Jl. Raya Wendit Barat No.458, Pandanwangi, , ,  , Indonesia, Kec. Blimbing, Kota Malang, Jawa Timur, 65126
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=537255318919087826651532
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/537255318919087826651532.m3u8
+     Koordinat: -7.9501648738256, 112.66417854753
+---------------------------------------------------------------------------
+
+========================= DISTRIK KEDUNGKANDANG =========================
+Total Kamera: 28
+===========================================================================
+
+  1. Jl. Kyai Parseh Jaya Arah Utara
+     Stream ID: 791264717746791807536169
+     Alamat: Jl. Gadang Bumiayu No.8, , Bumiayu, , ,  , Indonesia, RT.04/RW.05, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65135
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=791264717746791807536169
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/791264717746791807536169.m3u8
+     Koordinat: -8.0245590074592, 112.63351631963
+---------------------------------------------------------------------------
+
+  2. Jl. Ki Ageng Gribig Arah Selatan
+     Stream ID: 919248977431029784415723
+     Alamat: Jl. Raya Ki Ageng Gribig No.11, Madyopuro, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=919248977431029784415723
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/919248977431029784415723.m3u8
+     Koordinat: -7.9745092328817, 112.67245976856
+---------------------------------------------------------------------------
+
+  3. Jl. Mayjen Sungkono Arah Selatan (Gor Ken Arok)
+     Stream ID: 246296455949996661977887
+     Alamat: Jalan Mayjend Sungkono (Depan Gor Ken Arok), Bumiayu, ,, Buring, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65135
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=246296455949996661977887
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/246296455949996661977887.m3u8
+     Koordinat: -8.0133238335934, 112.64353480274
+---------------------------------------------------------------------------
+
+  4. Jl. Rajasa Arah Barat
+     Stream ID: 390518457780656230115714
+     Alamat: Jl. Rajasa No.2012, Bumiayu, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65135
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=390518457780656230115714
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/390518457780656230115714.m3u8
+     Koordinat: -8.0265864675627, 112.64285225973
+---------------------------------------------------------------------------
+
+  5. Jl. Terusan Sulfat Arah Barat
+     Stream ID: 255437547268502386905563
+     Alamat: 01, Jl. Terusan Sulfat No.3, Sawojajar, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=255437547268502386905563
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/255437547268502386905563.m3u8
+     Koordinat: -7.9652876918478, 112.6574405095
+---------------------------------------------------------------------------
+
+  6. Jl. Muharto Arah Barat
+     Stream ID: 284039786620080380014346
+     Alamat: Jl. Muharto No.26, , , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65137
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=284039786620080380014346
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/284039786620080380014346.m3u8
+     Koordinat: -7.9939098777072, 112.64768527232
+---------------------------------------------------------------------------
+
+  7. Jl. Raya Cemorokandang Arah Timur
+     Stream ID: 143725395052441804689699
+     Alamat: Jl. Raya Madyopuro No.1, Cemorokandang, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65138
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=143725395052441804689699
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/143725395052441804689699.m3u8
+     Koordinat: -7.9796596345044, 112.68398991818
+---------------------------------------------------------------------------
+
+  8. Jl. Kebalen Wetan Arah Timur
+     Stream ID: 839830267892971466247721
+     Alamat: Jl. Kolonel Sugiono No.1, Mergosono, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65118
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=839830267892971466247721
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/839830267892971466247721.m3u8
+     Koordinat: -7.9939005881375, 112.63364104707
+---------------------------------------------------------------------------
+
+  9. Jl. Ranugrati Arah Barat
+     Stream ID: 007769084157082641425855
+     Alamat: Jl. Ranugrati No.39d, Sawojajar, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=007769084157082641425855
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/007769084157082641425855.m3u8
+     Koordinat: -7.9808962888885, 112.65356039733
+---------------------------------------------------------------------------
+
+ 10. Jl. Mayjen Sungkono Arah Selatan
+     Stream ID: 872337836594410225468546
+     Alamat: Jl. Mayjen Sungkono No.13b, , Wonokoyo, , ,  , Indonesia, RT.04/RW.05, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65135
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=872337836594410225468546
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/872337836594410225468546.m3u8
+     Koordinat: -8.0266821298389, 112.64285641359
+---------------------------------------------------------------------------
+
+ 11. Jl. Danau Toba Arah Barat
+     Stream ID: 037075518670899465560926
+     Alamat: Jl. Danau Kerinci Raya No.1, Lesanpuro, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=037075518670899465560926
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/037075518670899465560926.m3u8
+     Koordinat: -7.9790869759775, 112.65953897435
+---------------------------------------------------------------------------
+
+ 12. Jl. Mayjend Sungkono Arah Utara (Block Office)
+     Stream ID: 648109998063016154575665
+     Alamat: depan perkantoran terpadu, pertigaan, Jl. Mayjen Sungkono, Wonokoyo, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65132
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=648109998063016154575665
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/648109998063016154575665.m3u8
+     Koordinat: -8.0324356945612, 112.64265223647
+---------------------------------------------------------------------------
+
+ 13. Jl. Danau Toba Arah Timur
+     Stream ID: 799063606348608223030193
+     Alamat: Jl. Danau Kerinci Raya, Perumahan Sawojajar, Lesanpuro, , Malang City, East Java , Indonesia, Kec. Kedungkandang, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=799063606348608223030193
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/799063606348608223030193.m3u8
+     Koordinat: -7.979106297252, 112.65968375923
+---------------------------------------------------------------------------
+
+ 14. Jl. Danau Kerinci Arah Utara
+     Stream ID: 931466165340267193793620
+     Alamat: Jl. Danau Kerinci Raya No.1, Lesanpuro, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=931466165340267193793620
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/931466165340267193793620.m3u8
+     Koordinat: -7.978996655219, 112.65965216595
+---------------------------------------------------------------------------
+
+ 15. Jl. Martadinata Arah Utara
+     Stream ID: 359461418488526462162650
+     Alamat: Jl. Kolonel Sugiono No.1, Mergosono, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65118
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=359461418488526462162650
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/359461418488526462162650.m3u8
+     Koordinat: -7.9938247531935, 112.63356035779
+---------------------------------------------------------------------------
+
+ 16. Jl. Kyai Parseh Jaya Arah Utara
+     Stream ID: 945917351993616433015698
+     Alamat: Jalan Gadang Bumiayu, Bumiayu, , Bumiayu, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65135
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=945917351993616433015698
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/945917351993616433015698.m3u8
+     Koordinat: -8.02436511354, 112.63353824605
+---------------------------------------------------------------------------
+
+ 17. Jl. Mayjen Sungkono Arah Selatan (Jembatan)
+     Stream ID: 424989231290086461229636
+     Alamat: Jl. Raya Ki Ageng Gribig No.31, , , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=424989231290086461229636
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/424989231290086461229636.m3u8
+     Koordinat: -7.9939030466594, 112.64780478967
+---------------------------------------------------------------------------
+
+ 18. Jl. Mayjend Sungkono Arah Utara (Gor Ken Arok)
+     Stream ID: 247069575513558870999554
+     Alamat: Jl. Mayjen Sungkono No.17, Buring, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65136
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=247069575513558870999554
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/247069575513558870999554.m3u8
+     Koordinat: -8.0132643690914, 112.64353469034
+---------------------------------------------------------------------------
+
+ 19. Jl. Kebalen Wetan Arah Selatan
+     Stream ID: 453382724774773485227390
+     Alamat: Jl. Kebalen Wetan No.01, Kotalama, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65136
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=453382724774773485227390
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/453382724774773485227390.m3u8
+     Koordinat: -7.989048761795, 112.63872368841
+---------------------------------------------------------------------------
+
+ 20. Jl. Danau Kerinci Arah Selatan
+     Stream ID: 148960239776637882670743
+     Alamat: Jl. Danau Yamur No.1, Sawojajar, , Malang, Keduyo, Sawojajar, , Malang,  , Indonesia, Kec. Kedungkandang, Jawa Timur, 65154
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=148960239776637882670743
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/148960239776637882670743.m3u8
+     Koordinat: -7.9712384586829, 112.66398784702
+---------------------------------------------------------------------------
+
+ 21. Jl. Raya Cemorokandang Arah Barat
+     Stream ID: 748163626141039645450448
+     Alamat: Jl. Raya Cemorokandang No.7, Cemorokandang, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65138
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=748163626141039645450448
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/748163626141039645450448.m3u8
+     Koordinat: -7.9794081568667, 112.68341922528
+---------------------------------------------------------------------------
+
+ 22. Jl. Ki Ageng Gribig Arah Utara
+     Stream ID: 817521846151282907919064
+     Alamat: Jl. Raya Ki Ageng Gribig No.19, Madyopuro, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=817521846151282907919064
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/817521846151282907919064.m3u8
+     Koordinat: -7.9742168153195, 112.67259470513
+---------------------------------------------------------------------------
+
+ 23. Jl. Ki Ageng Gribig Arah Selatan
+     Stream ID: 748385964560314122807188
+     Alamat: Jalan Danau Toba Blok.E 9 No.16, Sawojajar, , Lesanpuro, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=748385964560314122807188
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/748385964560314122807188.m3u8
+     Koordinat: -7.9808859838311, 112.66261624078
+---------------------------------------------------------------------------
+
+ 24. Jl. Ki Ageng Gribig Arah Utara
+     Stream ID: 249126924447217291535999
+     Alamat: Jl. Raya Ki Ageng Gribig No.2, Madyopuro, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=249126924447217291535999
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/249126924447217291535999.m3u8
+     Koordinat: -7.9806695867537, 112.66294772679
+---------------------------------------------------------------------------
+
+ 25. Jl. Mayjend Sungkono Arah Selatan (Block Office)
+     Stream ID: 341249267574702296399925
+     Alamat: Tlogowaru, Tlogowaru, , , , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=341249267574702296399925
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/341249267574702296399925.m3u8
+     Koordinat: -8.0326239922323, 112.64262576999
+---------------------------------------------------------------------------
+
+ 26. Jl. Gribig Arah Utara (Jembatan)
+     Stream ID: 397487832387359645963672
+     Alamat: Jl. Mayjen Sungkono No.38, , , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65136
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=397487832387359645963672
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/397487832387359645963672.m3u8
+     Koordinat: -7.9940003315615, 112.64773556238
+---------------------------------------------------------------------------
+
+ 27. Jl. Danau Toba Arah Timur
+     Stream ID: 849859474089925604905534
+     Alamat: Jl. Ranugrati No.39d, Sawojajar, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=849859474089925604905534
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/849859474089925604905534.m3u8
+     Koordinat: -7.9808925718159, 112.65368213739
+---------------------------------------------------------------------------
+
+ 28. Jl. Danau Toba Arah Barat
+     Stream ID: 133105391563125665089003
+     Alamat: Jl. Raya Ki Ageng Gribig No.mor 2, Madyopuro, , ,  , Indonesia, Kec. Kedungkandang, Kota Malang, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=133105391563125665089003
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/133105391563125665089003.m3u8
+     Koordinat: -7.9807161688601, 112.66270762353
+---------------------------------------------------------------------------
+
+========================= DISTRIK KLOJEN =========================
+Total Kamera: 113
+===========================================================================
+
+  1. Jl. Merdeka Utara Arah Utara
+     Stream ID: 375341952336011589690586
+     Alamat: Jl. Merdeka Timur, Kiduldalem, , ,, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=375341952336011589690586
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/375341952336011589690586.m3u8
+     Koordinat: -7.981779115765, 112.63174579237
+---------------------------------------------------------------------------
+
+  2. Jl Pasar Besar Arah Timur
+     Stream ID: 791662500424223576621102
+     Alamat: Jl. Pasar Besar No.78, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65118
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=791662500424223576621102
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/791662500424223576621102.m3u8
+     Koordinat: -7.9859859938322, 112.6334058263
+---------------------------------------------------------------------------
+
+  3. Jl. Veteran Arah Barat
+     Stream ID: 838413871917489102204055
+     Alamat: Jl. Bandung No.42, Penanggungan, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65113
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=838413871917489102204055
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/838413871917489102204055.m3u8
+     Koordinat: -7.9599377065654, 112.62158622143
+---------------------------------------------------------------------------
+
+  4. Jl. Arif Margono Arah Utara
+     Stream ID: 652269633484216664565215
+     Alamat: Jl. Arif Margono No.58, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=652269633484216664565215
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/652269633484216664565215.m3u8
+     Koordinat: -7.9866500451534, 112.62348234253
+---------------------------------------------------------------------------
+
+  5. Jl. Semeru Arah Barat
+     Stream ID: 717958972035700755246088
+     Alamat: Permata Bank Bromo, Oro-oro Dowo, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=717958972035700755246088
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/717958972035700755246088.m3u8
+     Koordinat: -7.9759253749755, 112.62685908502
+---------------------------------------------------------------------------
+
+  6. Jl. Kawi Arah Timur (BRI Kawi)
+     Stream ID: 269060901340905226381917
+     Alamat: Jl. Kawi No.7, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=269060901340905226381917
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/269060901340905226381917.m3u8
+     Koordinat: -7.9799339704206, 112.62621703132
+---------------------------------------------------------------------------
+
+  7. Jl. Ijen Arah Utara
+     Stream ID: 467561291886570342820693
+     Alamat: Jl. Kawi No.46, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65116
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=467561291886570342820693
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/467561291886570342820693.m3u8
+     Koordinat: -7.9755911663497, 112.62072907383
+---------------------------------------------------------------------------
+
+  8. Jl. Letjend Sutoyo Arah Selatan (Hotel Savana)
+     Stream ID: 435572404308262635105603
+     Alamat: Jl. Letjen Sutoyo No.27c, RW.3, Rampal Celaket, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=435572404308262635105603
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/435572404308262635105603.m3u8
+     Koordinat: -7.962092861193, 112.636167138
+---------------------------------------------------------------------------
+
+  9. Jl. Nusakambangan Arah Barat
+     Stream ID: 212039658036127116733044
+     Alamat: Jl. Nusakambangan No.44, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=212039658036127116733044
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/212039658036127116733044.m3u8
+     Koordinat: -7.9878276102681, 112.62577336634
+---------------------------------------------------------------------------
+
+ 10. Jl. Patimura Arah Barat
+     Stream ID: 008689729209182017615333
+     Alamat: JL. Trunojoyo No. 46, Malang - East Java, , Malang City, East Java , Indonesia, Kec. Klojen, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=008689729209182017615333
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/008689729209182017615333.m3u8
+     Koordinat: -7.9734210532331, 112.63662250924
+---------------------------------------------------------------------------
+
+ 11. Jl. Merdeka Barat Arah Utara
+     Stream ID: 662201042760075959506830
+     Alamat: Jl. Kauman No.6, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=662201042760075959506830
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/662201042760075959506830.m3u8
+     Koordinat: -7.9830090364441, 112.62999084052
+---------------------------------------------------------------------------
+
+ 12. Jl. Aris Munandar Arah Timur
+     Stream ID: 002327922068835068551525
+     Alamat: Jl. Zainul Arifin No.1, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=002327922068835068551525
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/002327922068835068551525.m3u8
+     Koordinat: -7.9817282523094, 112.63488263025
+---------------------------------------------------------------------------
+
+ 13. Jl. Zainul Arifin Arah Utara
+     Stream ID: 394839611609021690258370
+     Alamat: Jl. Zainul Arifin No.59, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=394839611609021690258370
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/394839611609021690258370.m3u8
+     Koordinat: -7.9842511637337, 112.63400107763
+---------------------------------------------------------------------------
+
+ 14. Jl. Ijen Arah Selatan
+     Stream ID: 603889351830833340753818
+     Alamat: 3, Jl. Pahlawan Trip No.2, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65112
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=603889351830833340753818
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/603889351830833340753818.m3u8
+     Koordinat: -7.9684717137907, 112.62314575185
+---------------------------------------------------------------------------
+
+ 15. Jl. Merdeka Timur Arah Selatan
+     Stream ID: 293434869573645632741268
+     Alamat: Jl. Merdeka Timur No.2a, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=293434869573645632741268
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/293434869573645632741268.m3u8
+     Koordinat: -7.981990281737, 112.63166709143
+---------------------------------------------------------------------------
+
+ 16. Jl. Yulius Usman Arah Timur
+     Stream ID: 530280435954205770660031
+     Alamat: Jl. Yulius Usman No.32, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=530280435954205770660031
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/530280435954205770660031.m3u8
+     Koordinat: -7.9859976732094, 112.62661966646
+---------------------------------------------------------------------------
+
+ 17. Jl. Syarif Al Qodri Arah Selatan
+     Stream ID: 333495472392613611434090
+     Alamat: Jl. Syarif Al-Qodri No.28, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=333495472392613611434090
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/333495472392613611434090.m3u8
+     Koordinat: -7.9847601051597, 112.62879684933
+---------------------------------------------------------------------------
+
+ 18. Jl. Semeru Arah Timur
+     Stream ID: 253598743355115924306355
+     Alamat: Permata Bank Bromo, Oro-oro Dowo, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=253598743355115924306355
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/253598743355115924306355.m3u8
+     Koordinat: -7.9760132257155, 112.62704336163
+---------------------------------------------------------------------------
+
+ 19. Jl. Kawi Arah barat (SMPN6)
+     Stream ID: 067883214706611879049144
+     Alamat: 3, Jl. Kawi No.22 A, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=067883214706611879049144
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/067883214706611879049144.m3u8
+     Koordinat: -7.9791369717037, 112.62512178637
+---------------------------------------------------------------------------
+
+ 20. Jl. W.R. Supratman Arah Barat
+     Stream ID: 465602083379458835437909
+     Alamat: Jl. Wage Rudolf Supratman No.12, Rampal Celaket, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=465602083379458835437909
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/465602083379458835437909.m3u8
+     Koordinat: -7.9665753600178, 112.6381462263
+---------------------------------------------------------------------------
+
+ 21. Jl. Ijen Arah Selatan (Simpang Balapan)
+     Stream ID: 383651772119550945722301
+     Alamat: Jl. Simpang Balapan No.1, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=383651772119550945722301
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/383651772119550945722301.m3u8
+     Koordinat: -7.9654473106679, 112.62526334093
+---------------------------------------------------------------------------
+
+ 22.  Jl. Nusakambangan Arah Timur
+     Stream ID: 259213973885550105439889
+     Alamat: Jl. Nusakambangan No.2, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=259213973885550105439889
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/259213973885550105439889.m3u8
+     Koordinat: -7.9865637188768, 112.62355612285
+---------------------------------------------------------------------------
+
+ 23. Jl. Patimura Arah Selatan
+     Stream ID: 643592251459005888214586
+     Alamat: Jl. Patimura IV No.268, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=643592251459005888214586
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/643592251459005888214586.m3u8
+     Koordinat: -7.9713053456857, 112.63329163058
+---------------------------------------------------------------------------
+
+ 24. Jl. Langsep Arah Selatan
+     Stream ID: 573357726087672833075775
+     Alamat: Jl. Dieng No.27d, Bareng, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65116
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=573357726087672833075775
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/573357726087672833075775.m3u8
+     Koordinat: -7.9735138945672, 112.6130609291
+---------------------------------------------------------------------------
+
+ 25. Jl. Arif Margono Arah Selatan
+     Stream ID: 713846259452297607019995
+     Alamat: Jl. Yulius Usman No.55, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=713846259452297607019995
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/713846259452297607019995.m3u8
+     Koordinat: -7.9851823940611, 112.62470431944
+---------------------------------------------------------------------------
+
+ 26. Jl. Kawi Arah Barat
+     Stream ID: 494044159463642643864378
+     Alamat: Jl. Bareng Kartini 3D No.194, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65116
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=494044159463642643864378
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/494044159463642643864378.m3u8
+     Koordinat: -7.9781031395978, 112.62377097938
+---------------------------------------------------------------------------
+
+ 27. Jl. KH. Hasyim Ashari Arah Selatan
+     Stream ID: 171664895247859983097279
+     Alamat: Gg. VI No.20, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=171664895247859983097279
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/171664895247859983097279.m3u8
+     Koordinat: -7.9826879471469, 112.62682418555
+---------------------------------------------------------------------------
+
+ 28. Jl. Tugu Arah Selatan (Balaikota)
+     Stream ID: 188896189032493229715252
+     Alamat: Jl. Tugu No.1A, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=188896189032493229715252
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/188896189032493229715252.m3u8
+     Koordinat: -7.9773249658189, 112.63465412321
+---------------------------------------------------------------------------
+
+ 29. Jl.  Merdeka Barat
+     Stream ID: 818599107354393628794315
+     Alamat: Jl. Kauman No.6, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=818599107354393628794315
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/818599107354393628794315.m3u8
+     Koordinat: -7.9831737398119, 112.62991857046
+---------------------------------------------------------------------------
+
+ 30. Jl. Pasar Besar Arah Timur
+     Stream ID: 787400068366441690070099
+     Alamat: Jl. Pasar Besar No.12, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65118
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=787400068366441690070099
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/787400068366441690070099.m3u8
+     Koordinat: -7.9852556187818, 112.63110894774
+---------------------------------------------------------------------------
+
+ 31. Jl. Jaksa Agung Suprapto Arah Timur
+     Stream ID: 660120947895309721081787
+     Alamat: Jl. Jaksa Agung Suprapto No.72AB, Rampal Celaket, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65112
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=660120947895309721081787
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/660120947895309721081787.m3u8
+     Koordinat: -7.9647753636826, 112.63479507623
+---------------------------------------------------------------------------
+
+ 32. Jl. Yulius Usman Arah Timur
+     Stream ID: 620853484047521997472024
+     Alamat: Jl. Yulius Usman No.55, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=620853484047521997472024
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/620853484047521997472024.m3u8
+     Koordinat: -7.9851784507742, 112.62475294416
+---------------------------------------------------------------------------
+
+ 33. Jl. Agus Salim Arah Timur
+     Stream ID: 117940938424194503584011
+     Alamat: Jl. Agus Salim No.6, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=117940938424194503584011
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/117940938424194503584011.m3u8
+     Koordinat: -7.9836514537034, 112.63132011235
+---------------------------------------------------------------------------
+
+ 34. Jl. Kol Sugiono Arah Selatan
+     Stream ID: 103133560130391004996993
+     Alamat: Jl. Sartono S.H No.82, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65148
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=103133560130391004996993
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/103133560130391004996993.m3u8
+     Koordinat: -7.9935165980684, 112.6335109611
+---------------------------------------------------------------------------
+
+ 35. Jl. Patimura Arah Barat
+     Stream ID: 844727028021085216938269
+     Alamat: Jl. Patimura No.1 A, RW.3, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=844727028021085216938269
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/844727028021085216938269.m3u8
+     Koordinat: -7.9713392134144, 112.63320330628
+---------------------------------------------------------------------------
+
+ 36. Jl. Semeru Arah Timur (Perpustakaan)
+     Stream ID: 421607974337796002196100
+     Alamat: Jl. Besar Ijen No.24, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=421607974337796002196100
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/421607974337796002196100.m3u8
+     Koordinat: -7.9724481766569, 112.62197542391
+---------------------------------------------------------------------------
+
+ 37. Jl. Ijen Arah Utara (Poltekes)
+     Stream ID: 098343692068108583411220
+     Alamat: Politeknik Kesehatan Kemenkes Malang, Oro-oro Dowo, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=098343692068108583411220
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/098343692068108583411220.m3u8
+     Koordinat: -7.9655728222683, 112.62486253928
+---------------------------------------------------------------------------
+
+ 38. Jl. Arif Margono Arah Selatan
+     Stream ID: 789762621921935268666704
+     Alamat: Jl. Arif Margono No.31D, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=789762621921935268666704
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/789762621921935268666704.m3u8
+     Koordinat: -7.9841459293288, 112.62611115799
+---------------------------------------------------------------------------
+
+ 39. Jl. Terusan Ijen Arah Selatan
+     Stream ID: 495229592063339988032865
+     Alamat: Jl. Kawi No.46, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65116
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=495229592063339988032865
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/495229592063339988032865.m3u8
+     Koordinat: -7.975682460697, 112.62043425845
+---------------------------------------------------------------------------
+
+ 40. Jl. Jaksa Agung Suprapto Arah Utara
+     Stream ID: 092075042505129095657722
+     Alamat: Jl. Jaksa Agung Suprapto Dalam Rw. 06 No.11, RT.06, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65112
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=092075042505129095657722
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/092075042505129095657722.m3u8
+     Koordinat: -7.972844347692, 112.63074021452
+---------------------------------------------------------------------------
+
+ 41. Jl. Trunojoyo Arah Selatan
+     Stream ID: 027277786580967639165024
+     Alamat: Depan, Malang, Jl. Trunojoyo, Kiduldalem, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=027277786580967639165024
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/027277786580967639165024.m3u8
+     Koordinat: -7.9777776777458, 112.63687422811
+---------------------------------------------------------------------------
+
+ 42. Jl. Bromo Arah Utara (GKI Bromo)
+     Stream ID: 664697529898892981084889
+     Alamat: Jl. Bromo No.14-4, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=664697529898892981084889
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/664697529898892981084889.m3u8
+     Koordinat: -7.9790722501546, 112.62526556398
+---------------------------------------------------------------------------
+
+ 43. Jl. Panglima Sudirman Arah Selatan
+     Stream ID: 281336549789753967841481
+     Alamat: Halte WR Supratman, Rampal Celaket, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=281336549789753967841481
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/281336549789753967841481.m3u8
+     Koordinat: -7.9671540052596, 112.63825343409
+---------------------------------------------------------------------------
+
+ 44. Jl. Basuki Rahmat Arah Selatan
+     Stream ID: 771615331018457682499213
+     Alamat: Jl. Jenderal Basuki Rahmat No.64A, RW.3, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=771615331018457682499213
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/771615331018457682499213.m3u8
+     Koordinat: -7.9765568193952, 112.62938479567
+---------------------------------------------------------------------------
+
+ 45. Jl. Ijen Arah Selatan 
+     Stream ID: 742158442433359267079827
+     Alamat: 3, Apotek Kimia Farma, Jl. Besar Ijen No.88, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=742158442433359267079827
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/742158442433359267079827.m3u8
+     Koordinat: -7.9635130965252, 112.62538075902
+---------------------------------------------------------------------------
+
+ 46. Jl. Aris Munandar Arah Barat
+     Stream ID: 491236279805146068523382
+     Alamat: Jl. Aries Munandar No.30, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=491236279805146068523382
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/491236279805146068523382.m3u8
+     Koordinat: -7.9816351157523, 112.63466394904
+---------------------------------------------------------------------------
+
+ 47. Jl. Nusakambangan Arah Timur
+     Stream ID: 520047642463517122795344
+     Alamat: Jl. Nusakambangan No.19b, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=520047642463517122795344
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/520047642463517122795344.m3u8
+     Koordinat: -7.9879159925938, 112.62605053939
+---------------------------------------------------------------------------
+
+ 48. Jl. Veteran Arah Selatan
+     Stream ID: 440008799417875731945423
+     Alamat: Jl. Tangerang No.25, Penanggungan, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65113
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=440008799417875731945423
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/440008799417875731945423.m3u8
+     Koordinat: -7.9598377716445, 112.62178774821
+---------------------------------------------------------------------------
+
+ 49. Jl. Pasar Besar Arah Barat
+     Stream ID: 211248133615597097922668
+     Alamat: Toko Mas Djodjo, Sukoharjo, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=211248133615597097922668
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/211248133615597097922668.m3u8
+     Koordinat: -7.985942830626, 112.63329872653
+---------------------------------------------------------------------------
+
+ 50. Jl. Ade Irma Suryani Arah Timur
+     Stream ID: 096052317426605718543303
+     Alamat: Jl. Ade Irma Suryani No.32, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65123
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=096052317426605718543303
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/096052317426605718543303.m3u8
+     Koordinat: -7.984652924575, 112.62884529204
+---------------------------------------------------------------------------
+
+ 51. Jl. KH Ahmad Dahlan Arah Timur
+     Stream ID: 422383028253759413095916
+     Alamat: Jl. KH Ahmad Dahlan No.2 no.568, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65118
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=422383028253759413095916
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/422383028253759413095916.m3u8
+     Koordinat: -7.9844351061273, 112.63407770918
+---------------------------------------------------------------------------
+
+ 52. Jl. Kawi Arah Timur
+     Stream ID: 642085663280892020139410
+     Alamat: Jl. Kawi No.46, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65116
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=642085663280892020139410
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/642085663280892020139410.m3u8
+     Koordinat: -7.9757838519385, 112.62065559703
+---------------------------------------------------------------------------
+
+ 53. Jl. Husni Tamrin Arah Utara
+     Stream ID: 824468526355652946351265
+     Alamat: Jl. Patimura No.22, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=824468526355652946351265
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/824468526355652946351265.m3u8
+     Koordinat: -7.9731576817215, 112.63460322804
+---------------------------------------------------------------------------
+
+ 54. Jl. Jendral Sudirman Arah Selatan (smpn 5)
+     Stream ID: 054856199643889577039217
+     Alamat: Jl. Panglima Sudirman Utara No.38, Rampal Celaket, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=054856199643889577039217
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/054856199643889577039217.m3u8
+     Koordinat: -7.9675634227276, 112.6383922785
+---------------------------------------------------------------------------
+
+ 55. Jl. Martadinata Arah Utara
+     Stream ID: 385329642236762561556561
+     Alamat: Jl. Sartono S.H No.82, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65148
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=385329642236762561556561
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385329642236762561556561.m3u8
+     Koordinat: -7.9933246396574, 112.63357443804
+---------------------------------------------------------------------------
+
+ 56. Jl. Pahlawan Trip
+     Stream ID: 401491802085987610923846
+     Alamat: 2JJF+HFJ, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=401491802085987610923846
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/401491802085987610923846.m3u8
+     Koordinat: -7.9685812732694, 112.62348160349
+---------------------------------------------------------------------------
+
+ 57. Jl. Gatot Subroto Arah Utara
+     Stream ID: 938035466891117643541014
+     Alamat: Jl. Pasar Besar No.167, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65118
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=938035466891117643541014
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/938035466891117643541014.m3u8
+     Koordinat: -7.9870238760987, 112.63572782514
+---------------------------------------------------------------------------
+
+ 58. Jl. Kauman Arah Timur
+     Stream ID: 913339812782937126202419
+     Alamat: Jl. K.H. Hasyim Ashari No.9a, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=913339812782937126202419
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/913339812782937126202419.m3u8
+     Koordinat: -7.9825136778617, 112.62700689146
+---------------------------------------------------------------------------
+
+ 59. Jl. Kahuripan Arah Timur
+     Stream ID: 994477999826297213214297
+     Alamat: Jl. Jenderal Basuki Rahmat No.64A, RW.3, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=994477999826297213214297
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/994477999826297213214297.m3u8
+     Koordinat: -7.9764020923109, 112.62954323459
+---------------------------------------------------------------------------
+
+ 60. JL. Merdeka Utara Arah Timur
+     Stream ID: 836932175769604266560282
+     Alamat: Jl. Jenderal Basuki Rahmat No.1, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=836932175769604266560282
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/836932175769604266560282.m3u8
+     Koordinat: -7.9815556639614, 112.63019742355
+---------------------------------------------------------------------------
+
+ 61. Jl. Panggung Arah Timur
+     Stream ID: 612052153388690062372274
+     Alamat: Jl. Panggung No.2A, RW.3, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=612052153388690062372274
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/612052153388690062372274.m3u8
+     Koordinat: -7.9655787990102, 112.62544286034
+---------------------------------------------------------------------------
+
+ 62. Jl. Trunojoyo Arah Barat
+     Stream ID: 188475135081668166134552
+     Alamat: Jl. Embong Brantas No.1, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=188475135081668166134552
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/188475135081668166134552.m3u8
+     Koordinat: -7.9808355434006, 112.6378441011
+---------------------------------------------------------------------------
+
+ 63. Jl. Galungung Arah Selatan
+     Stream ID: 889779720689036295934998
+     Alamat: Jl. Galunggung No.58g, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65115
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=889779720689036295934998
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/889779720689036295934998.m3u8
+     Koordinat: -7.9674016151997, 112.61350948649
+---------------------------------------------------------------------------
+
+ 64. Jl. Merbabu Arah Selatan
+     Stream ID: 653722151300593309331609
+     Alamat: Jl. Panggung No.2A, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=653722151300593309331609
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/653722151300593309331609.m3u8
+     Koordinat: -7.9658629817514, 112.62536890787
+---------------------------------------------------------------------------
+
+ 65. Jl. Bandung Arah Barat (Bundaran UKS)
+     Stream ID: 699355759296848496652742
+     Alamat: Jl. Bandung No.1, Penanggungan, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65113
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=699355759296848496652742
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/699355759296848496652742.m3u8
+     Koordinat: -7.9622672931418, 112.62564722251
+---------------------------------------------------------------------------
+
+ 66. Jl. Arjuno Arah Utara (BRI Kawi)
+     Stream ID: 599118267175295987908194
+     Alamat: Jl. Kawi No.7, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=599118267175295987908194
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/599118267175295987908194.m3u8
+     Koordinat: -7.9798029805368, 112.62619448083
+---------------------------------------------------------------------------
+
+ 67. Jl. Sutan Syahrir Arah Selatan
+     Stream ID: 112214116527259160582301
+     Alamat: Jl. Pasar Besar No.6, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=112214116527259160582301
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/112214116527259160582301.m3u8
+     Koordinat: -7.9853327934448, 112.63091800772
+---------------------------------------------------------------------------
+
+ 68. Jl. Ijen Arah Selatan
+     Stream ID: 143760541432235845327573
+     Alamat: Idjen Boulevard, Jl. Besar Ijen, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65115
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=143760541432235845327573
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/143760541432235845327573.m3u8
+     Koordinat: -7.9724129942373, 112.62174499829
+---------------------------------------------------------------------------
+
+ 69. Jl. Sulawesi Arah Selatan
+     Stream ID: 346702335161875943863648
+     Alamat: Jl. Sulawesi No.1, Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=346702335161875943863648
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/346702335161875943863648.m3u8
+     Koordinat: -7.9861297618618, 112.62655917045
+---------------------------------------------------------------------------
+
+ 70. Jl. Basuki Rahmat arah utara
+     Stream ID: 291214161756678285690451
+     Alamat: Jl. Jenderal Basuki Rahmat No.6e, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=291214161756678285690451
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/291214161756678285690451.m3u8
+     Koordinat: -7.9802024549855, 112.63039082456
+---------------------------------------------------------------------------
+
+ 71. Jl. Ijen Arah Utara
+     Stream ID: 627129209468594400740829
+     Alamat: Jl. Besar Ijen No.30a, Oro-oro Dowo, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=627129209468594400740829
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/627129209468594400740829.m3u8
+     Koordinat: -7.9720342789587, 112.62187618007
+---------------------------------------------------------------------------
+
+ 72. Jl. Jenderal Sudirman Arah Barat
+     Stream ID: 855876619782149417527265
+     Alamat: Halte WR Supratman, Rampal Celaket, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=855876619782149417527265
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/855876619782149417527265.m3u8
+     Koordinat: -7.9668162894629, 112.63841239235
+---------------------------------------------------------------------------
+
+ 73. Jl. Ade Irma Suryani Arah Barat
+     Stream ID: 588238642766249531642812
+     Alamat: Jl. Ade Irma Suryani No.3, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=588238642766249531642812
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/588238642766249531642812.m3u8
+     Koordinat: -7.9851823482675, 112.63083565901
+---------------------------------------------------------------------------
+
+ 74. Jl. KH. Hasyim Ashari Arah Utara
+     Stream ID: 406217477871280304673887
+     Alamat: Jl. K.H. Hasyim Ashari No.16, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=406217477871280304673887
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/406217477871280304673887.m3u8
+     Koordinat: -7.9822871253877, 112.62695060708
+---------------------------------------------------------------------------
+
+ 75. Jl. Dieng Arah Timur
+     Stream ID: 547359693237078797537666
+     Alamat: Jl. Galunggung No.2, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65146
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=547359693237078797537666
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/547359693237078797537666.m3u8
+     Koordinat: -7.9732906622822, 112.61329216201
+---------------------------------------------------------------------------
+
+ 76. Jl. Ijen Arah Utara
+     Stream ID: 735506210316890709562691
+     Alamat: Jl. Buring No.60, RW.3, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65112
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=735506210316890709562691
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/735506210316890709562691.m3u8
+     Koordinat: -7.9687934770834, 112.62392151894
+---------------------------------------------------------------------------
+
+ 77. JL. Merdeka Utara Arah Utara
+     Stream ID: 472503741586852378929425
+     Alamat: Jl. Jenderal Basuki Rahmat No.1, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=472503741586852378929425
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/472503741586852378929425.m3u8
+     Koordinat: -7.9815751975434, 112.63042387909
+---------------------------------------------------------------------------
+
+ 78. Jl. Yulius Usman Arah Barat
+     Stream ID: 920796867173871680340694
+     Alamat: Ruko Sulawesi Indah, Jalan Sulawesi Blok 2A, Jl. Yulius Usman No. 29C, Kasin, , Kasin, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=920796867173871680340694
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/920796867173871680340694.m3u8
+     Koordinat: -7.9859869889643, 112.62656234937
+---------------------------------------------------------------------------
+
+ 79. Jl. Agus Salim Arah Barat
+     Stream ID: 222512201418345708685754
+     Alamat: Jl. Agus Salim No.25, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=222512201418345708685754
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/222512201418345708685754.m3u8
+     Koordinat: -7.9843361760881, 112.63379264662
+---------------------------------------------------------------------------
+
+ 80. Jl. Panglima Sudirman Arah Utara
+     Stream ID: 320035756896441723894425
+     Alamat: Jl. Patimura No.111, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=320035756896441723894425
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/320035756896441723894425.m3u8
+     Koordinat: -7.9734076388565, 112.63848787099
+---------------------------------------------------------------------------
+
+ 81. Jl. Jaksa Agung Suprapto Arah Selatan
+     Stream ID: 655224432137058620115166
+     Alamat: Jl. Jaksa Agung Suprapto No.19b, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65112
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=655224432137058620115166
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/655224432137058620115166.m3u8
+     Koordinat: -7.9726039540491, 112.63081703466
+---------------------------------------------------------------------------
+
+ 82. Jl. Zainul Arifin Arah Selatan
+     Stream ID: 888598335546629776669925
+     Alamat: Jl. Zainul Arifin No.63, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=888598335546629776669925
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/888598335546629776669925.m3u8
+     Koordinat: -7.9845694615764, 112.63389029793
+---------------------------------------------------------------------------
+
+ 83. Jl. Galunggung Arah Utara
+     Stream ID: 879779063216883395653396
+     Alamat: Jl. Galunggung No.76c, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65115
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=879779063216883395653396
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/879779063216883395653396.m3u8
+     Koordinat: -7.9671798845705, 112.6135961468
+---------------------------------------------------------------------------
+
+ 84. Jl. Semeru Arah Barat
+     Stream ID: 776763144322125195609829
+     Alamat: Jl. Semeru No.2, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65183
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=776763144322125195609829
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/776763144322125195609829.m3u8
+     Koordinat: -7.9764125575545, 112.62916901708
+---------------------------------------------------------------------------
+
+ 85. Jl Kyai Tamin Arah Timur
+     Stream ID: 373262875962388363723269
+     Alamat: JL. Kapt. P. Tendean 1D No. 108, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=373262875962388363723269
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/373262875962388363723269.m3u8
+     Koordinat: -7.9873753596968, 112.63033321498
+---------------------------------------------------------------------------
+
+ 86. Jl. Kawi Arah Timur.
+     Stream ID: 192932202274819493009134
+     Alamat: Jalan kawi bawah 4 no 3A, Kauman, , Malang City, East Java , Indonesia, Kec. Klojen, 65116
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=192932202274819493009134
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/192932202274819493009134.m3u8
+     Koordinat: -7.9782704417049, 112.62397772459
+---------------------------------------------------------------------------
+
+ 87. Jl. Majapahit Arah Utara
+     Stream ID: 116009283303235824630445
+     Alamat: 3, Jl. MGR Sugiyopranoto No.3A, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=116009283303235824630445
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/116009283303235824630445.m3u8
+     Koordinat: -7.9802423098069, 112.63089616965
+---------------------------------------------------------------------------
+
+ 88. Jl. Tugu Arah Utara
+     Stream ID: 621626709539809832237018
+     Alamat: Hotel Tugu, Kiduldalem, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=621626709539809832237018
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/621626709539809832237018.m3u8
+     Koordinat: -7.9768770504848, 112.63349791746
+---------------------------------------------------------------------------
+
+ 89. Jl. Brigjend Slamet Riadi Arah Barat
+     Stream ID: 654189372598870108548003
+     Alamat: Jl. Brigjend Slamet Riadi No.2a, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=654189372598870108548003
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/654189372598870108548003.m3u8
+     Koordinat: -7.9742567692522, 112.62976551479
+---------------------------------------------------------------------------
+
+ 90. Jl. Kawi Arah Barat (BRI Kawi)
+     Stream ID: 244729190133053856685781
+     Alamat: Cabang Biro Perencanaan Dan Pengembangan Perusahaan, Kauman, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=244729190133053856685781
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/244729190133053856685781.m3u8
+     Koordinat: -7.9798254151343, 112.62608608785
+---------------------------------------------------------------------------
+
+ 91. JL. Ijen Arah Utara
+     Stream ID: 268660637162985239935545
+     Alamat: Jl. Ijen No.89, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65113
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=268660637162985239935545
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/268660637162985239935545.m3u8
+     Koordinat: -7.9633115011586, 112.62540840759
+---------------------------------------------------------------------------
+
+ 92. Jl. Basuki Rahmat Arah Selatan
+     Stream ID: 825109914933198114646936
+     Alamat: Jl. Jenderal Basuki Rahmat No.4, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=825109914933198114646936
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/825109914933198114646936.m3u8
+     Koordinat: -7.9806017505387, 112.63055525549
+---------------------------------------------------------------------------
+
+ 93. Jl. Agus Salim Arah Timur
+     Stream ID: 217486301753431654065609
+     Alamat: Jl. Agus Salim No.6, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=217486301753431654065609
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/217486301753431654065609.m3u8
+     Koordinat: -7.9835125563269, 112.63137031522
+---------------------------------------------------------------------------
+
+ 94. Jl. KH Wahid Hasyim Utara
+     Stream ID: 282903042902775461180091
+     Alamat: Jl. Kyai H. Wahid Hasyim No.116d, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=282903042902775461180091
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/282903042902775461180091.m3u8
+     Koordinat: -7.9845227704684, 112.62883899706
+---------------------------------------------------------------------------
+
+ 95. Jl. Letjend Sutoyo Arah Utara
+     Stream ID: 052357343710249808147659
+     Alamat: Jl. Letjen Sutoyo No.44, RW.3, Rampal Celaket, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=052357343710249808147659
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/052357343710249808147659.m3u8
+     Koordinat: -7.9616485860247, 112.63639665546
+---------------------------------------------------------------------------
+
+ 96. Jl. Trunojoyo Arah Utara
+     Stream ID: 853226045901551050379815
+     Alamat: Jl. Trunojoyo No.81, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=853226045901551050379815
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/853226045901551050379815.m3u8
+     Koordinat: -7.9773796247967, 112.63682801673
+---------------------------------------------------------------------------
+
+ 97. Jl. Galunggung Arah Utara
+     Stream ID: 710655546702615517203062
+     Alamat: Jl. Galunggung No.74, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65115
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=710655546702615517203062
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/710655546702615517203062.m3u8
+     Koordinat: -7.9669408157606, 112.61355573485
+---------------------------------------------------------------------------
+
+ 98. Jl. Sudirman Arah Selatan
+     Stream ID: 024271174990073130193626
+     Alamat: Jl. Patimura No.111, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=024271174990073130193626
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/024271174990073130193626.m3u8
+     Koordinat: -7.9735734527294, 112.63851073613
+---------------------------------------------------------------------------
+
+ 99. Jl. Kawi Arah Timur (GKI Bromo)
+     Stream ID: 433161038569412405938175
+     Alamat: Jl. Kawi No.11, RW.3, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65116
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=433161038569412405938175
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/433161038569412405938175.m3u8
+     Koordinat: -7.97929323909, 112.62533821228
+---------------------------------------------------------------------------
+
+100. JL. Ade Irma Suryani Arah Timur
+     Stream ID: 585001585243656697946585
+     Alamat: Jalan Tumapel No.142, Kauman, , Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=585001585243656697946585
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/585001585243656697946585.m3u8
+     Koordinat: -7.9841023208587, 112.62626487433
+---------------------------------------------------------------------------
+
+101. Jl. WR. Supratman Arah Selatan
+     Stream ID: 540407055746756125950976
+     Alamat: Jl. Jaksa Agung Suprapto No.72b, Rampal Celaket, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=540407055746756125950976
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/540407055746756125950976.m3u8
+     Koordinat: -7.9645622164363, 112.6350697533
+---------------------------------------------------------------------------
+
+102. Jl. Pasar Besar Arah Barat
+     Stream ID: 623797234825519031426274
+     Alamat: Jl. Pasar Besar No.163, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65118
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=623797234825519031426274
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/623797234825519031426274.m3u8
+     Koordinat: -7.9869815091865, 112.6354541434
+---------------------------------------------------------------------------
+
+103. Jl. Tugu Arah Selatan
+     Stream ID: 938791837334761355142482
+     Alamat: Hotel Tugu, Kiduldalem, , , , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=938791837334761355142482
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/938791837334761355142482.m3u8
+     Koordinat: -7.9770357920207, 112.63345641439
+---------------------------------------------------------------------------
+
+104. Jl. SW Pranoto Arah Selatan
+     Stream ID: 421960655277255856257190
+     Alamat: Jl. Agus Salim No.6, Sukoharjo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=421960655277255856257190
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/421960655277255856257190.m3u8
+     Koordinat: -7.9836036629825, 112.6313650895
+---------------------------------------------------------------------------
+
+105. Jl. SW Pranoto Arah Utara
+     Stream ID: 629217349359529662387028
+     Alamat: Jl. Ade Irma Suryani No.3, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=629217349359529662387028
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/629217349359529662387028.m3u8
+     Koordinat: -7.9851811207356, 112.63094513485
+---------------------------------------------------------------------------
+
+106. Jl. Jaksa Agung Suprapto Arah Utara
+     Stream ID: 395810883923327543094739
+     Alamat: Jl. Brigjend Slamet Riadi No.2a, Oro-oro Dowo, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=395810883923327543094739
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/395810883923327543094739.m3u8
+     Koordinat: -7.974189093092, 112.6298633605
+---------------------------------------------------------------------------
+
+107. Jl. Tugu Arah Utara
+     Stream ID: 012071430581878807503129
+     Alamat: Jl. Tugu No.1, Kiduldalem, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=012071430581878807503129
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/012071430581878807503129.m3u8
+     Koordinat: -7.9770874644213, 112.63467063147
+---------------------------------------------------------------------------
+
+108. Jl. Kawi Arah Barat
+     Stream ID: 322877538584592778525433
+     Alamat: Jl. Kawi No.46, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65116
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=322877538584592778525433
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/322877538584592778525433.m3u8
+     Koordinat: -7.9756429406335, 112.62061926357
+---------------------------------------------------------------------------
+
+109. Jl. Bromo Arah Utara
+     Stream ID: 898902535875476482823426
+     Alamat: Jl. Bromo No.29, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=898902535875476482823426
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/898902535875476482823426.m3u8
+     Koordinat: -7.9758821152916, 112.62675137498
+---------------------------------------------------------------------------
+
+110. Jl. Galunggung Arah Utara
+     Stream ID: 564510132783646943412082
+     Alamat: Jl. Dieng No.32, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65115
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=564510132783646943412082
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/564510132783646943412082.m3u8
+     Koordinat: -7.9729859379202, 112.6131400908
+---------------------------------------------------------------------------
+
+111. Jl. Ade Irma Suryani Arah Barat
+     Stream ID: 340486331612923975414024
+     Alamat: Jl. Kyai H. Wahid Hasyim No.30, Kauman, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65119
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=340486331612923975414024
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/340486331612923975414024.m3u8
+     Koordinat: -7.9846157376916, 112.62875066297
+---------------------------------------------------------------------------
+
+112. Jl. Kertanegara Arah Barat
+     Stream ID: 231554183770498281450318
+     Alamat: Jl. Trunojoyo No.80a, , , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65111
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=231554183770498281450318
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/231554183770498281450318.m3u8
+     Koordinat: -7.9775599677685, 112.6366878558
+---------------------------------------------------------------------------
+
+113. Jl. Tidar Arah Barat
+     Stream ID: 697348239578014654770613
+     Alamat: Jl. Raya Tidar No.1c, Gading Kasri, , ,  , Indonesia, Kec. Klojen, Kota Malang, Jawa Timur, 65149
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=697348239578014654770613
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/697348239578014654770613.m3u8
+     Koordinat: -7.967129678414, 112.61342987975
+---------------------------------------------------------------------------
+
+========================= DISTRIK LOWOKWARU =========================
+Total Kamera: 32
+===========================================================================
+
+  1. Jl. Tlogomas Arah Barat
+     Stream ID: 572534477246123479166921
+     Alamat: Jl. Raya Tlogomas No.14a, Tlogomas, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=572534477246123479166921
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/572534477246123479166921.m3u8
+     Koordinat: -7.9239952304502, 112.59879614928
+---------------------------------------------------------------------------
+
+  2. Jl. Gajayana Arah Selatan (Sardo)
+     Stream ID: 385150101635081489243344
+     Alamat: Jl. Gajayana No.25, Ketawanggede, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=385150101635081489243344
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385150101635081489243344.m3u8
+     Koordinat: -7.9472848993973, 112.60882818468
+---------------------------------------------------------------------------
+
+  3. Jl. Melati Arah Selatan
+     Stream ID: 006104464277312024187785
+     Alamat: Jl. Melati No.1, RW.02, Jatimulyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=006104464277312024187785
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/006104464277312024187785.m3u8
+     Koordinat: -7.9515234941649, 112.63163609006
+---------------------------------------------------------------------------
+
+  4. Jl. Sarangan Arah Timur
+     Stream ID: 997694327434970434059156
+     Alamat: 02, Jl. Mawar No.1C, , , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=997694327434970434059156
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/997694327434970434059156.m3u8
+     Koordinat: -7.9589822903855, 112.63118669617
+---------------------------------------------------------------------------
+
+  5. Jl. Soekarno Hatta Arah Utara
+     Stream ID: 490076087057536757601215
+     Alamat: Jl. Soekarno Hatta No.50, Jatimulyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=490076087057536757601215
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490076087057536757601215.m3u8
+     Koordinat: -7.9421960881843, 112.62167294894
+---------------------------------------------------------------------------
+
+  6. Jl. Soekarno Hatta Arah Utara
+     Stream ID: 003687850006099691498995
+     Alamat: Jembatan, Jl. Soekarno Hatta, Jatimulyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=003687850006099691498995
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/003687850006099691498995.m3u8
+     Koordinat: -7.9492444183822, 112.61582183111
+---------------------------------------------------------------------------
+
+  7. Jl. Sendang Biru Arah Selatan (TPU Samaan)
+     Stream ID: 288129555152019399941762
+     Alamat: Jl. Mawar Gg. 1 No.mor 1, , , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=288129555152019399941762
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/288129555152019399941762.m3u8
+     Koordinat: -7.9589670895006, 112.63111488252
+---------------------------------------------------------------------------
+
+  8. Jl. Bendungan Sutami Arah Selatan
+     Stream ID: 386132036661026320418844
+     Alamat: Jl. Bendungan Sutami No.1, Sumbersari, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65115
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=386132036661026320418844
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/386132036661026320418844.m3u8
+     Koordinat: -7.9567833460861, 112.61293111321
+---------------------------------------------------------------------------
+
+  9. JL. Veteran Arah Timur
+     Stream ID: 636589114401733445781917
+     Alamat: Jl. Veteran No.37, Ketawanggede, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65145
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=636589114401733445781917
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/636589114401733445781917.m3u8
+     Koordinat: -7.9565403203483, 112.61300124641
+---------------------------------------------------------------------------
+
+ 10. Jl MT Haryono Arah Barat
+     Stream ID: 446907421280943044413749
+     Alamat: Jl. MT. Haryono No.73, Dinoyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65145
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=446907421280943044413749
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/446907421280943044413749.m3u8
+     Koordinat: -7.9432724138806, 112.61047403325
+---------------------------------------------------------------------------
+
+ 11. Jl. Tlogomas Arah Barat
+     Stream ID: 318197263503692449077822
+     Alamat: Jl. Tlogomas No.61, Tlogomas, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=318197263503692449077822
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/318197263503692449077822.m3u8
+     Koordinat: -7.9331659845176, 112.60341637719
+---------------------------------------------------------------------------
+
+ 12. Jl. Sarangan Arah Barat
+     Stream ID: 608341519678952535574036
+     Alamat: Jl. Letjen Sutoyo No.25, , , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=608341519678952535574036
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/608341519678952535574036.m3u8
+     Koordinat: -7.9617709052327, 112.63610953633
+---------------------------------------------------------------------------
+
+ 13. Jl. Kalpataru Arah Barat
+     Stream ID: 553368650971977610920123
+     Alamat: Jl. Kalpataru No.20, RW.02, Jatimulyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=553368650971977610920123
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/553368650971977610920123.m3u8
+     Koordinat: -7.9507950091217, 112.6314669223
+---------------------------------------------------------------------------
+
+ 14. Jl. Tlogomas Arah Timur
+     Stream ID: 963661947392775741127849
+     Alamat: Jl. Raya Tlogomas No.49, Tlogomas, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=963661947392775741127849
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/963661947392775741127849.m3u8
+     Koordinat: -7.9206147193538, 112.5944402632
+---------------------------------------------------------------------------
+
+ 15. Jl Tlogomas Arah Timur
+     Stream ID: 180731272173025410229793
+     Alamat: Jl. Raya Tlogomas No.83, Tlogomas, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=180731272173025410229793
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/180731272173025410229793.m3u8
+     Koordinat: -7.9242160621092, 112.5991563917
+---------------------------------------------------------------------------
+
+ 16. Jl. Candi Panggung Arah selatan
+     Stream ID: 895502928116887610228060
+     Alamat: Jl. Simpang Akordeon No.1b, Tunggulwulung, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65143
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=895502928116887610228060
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/895502928116887610228060.m3u8
+     Koordinat: -7.9331367806487, 112.61330513623
+---------------------------------------------------------------------------
+
+ 17. Jl. Sigura-Gura Arah Barat
+     Stream ID: 967823448439028638648911
+     Alamat: Jl. Bendungan Sutami No.1, Sumbersari, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65145
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=967823448439028638648911
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/967823448439028638648911.m3u8
+     Koordinat: -7.9567892735972, 112.61274532687
+---------------------------------------------------------------------------
+
+ 18. Jl. Gajayana Arah Utara (Sardo)
+     Stream ID: 455597782591873967365987
+     Alamat: Jl. Gajayana No.Kav. 14, Ketawanggede, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65145
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=455597782591873967365987
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/455597782591873967365987.m3u8
+     Koordinat: -7.9469843339316, 112.60889705726
+---------------------------------------------------------------------------
+
+ 19. Jl. Soekarno Hatta Arah Selatan
+     Stream ID: 889793263483161081015834
+     Alamat: Jl. Terusan Sudimoro No.2, Mojolangu, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65142
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=889793263483161081015834
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/889793263483161081015834.m3u8
+     Koordinat: -7.9367338416675, 112.62656451163
+---------------------------------------------------------------------------
+
+ 20. Jl. Panjaitan Arah Timur
+     Stream ID: 673512185163543498056968
+     Alamat: Jl. MT. Haryono No.12, Ketawanggede, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65113
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=673512185163543498056968
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/673512185163543498056968.m3u8
+     Koordinat: -7.9500002979033, 112.61555390881
+---------------------------------------------------------------------------
+
+ 21. Jl. Sudimoro Arah Utara
+     Stream ID: 682516686812038046706085
+     Alamat: 3J7G+6MJ, Jl. Soekarno Hatta, Mojolangu, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65142
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=682516686812038046706085
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/682516686812038046706085.m3u8
+     Koordinat: -7.9369975008466, 112.62653818198
+---------------------------------------------------------------------------
+
+ 22. Jl. Tlogomas Arah Barat
+     Stream ID: 764851199443964636246450
+     Alamat: Jl. Raya Tlogomas No.53, Tlogomas, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=764851199443964636246450
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/764851199443964636246450.m3u8
+     Koordinat: -7.9204336552247, 112.59424422085
+---------------------------------------------------------------------------
+
+ 23. Jl. Gajayana Arah Selatan
+     Stream ID: 715337494726392556880466
+     Alamat: Jl. Gajayana No.12, Ketawanggede, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=715337494726392556880466
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/715337494726392556880466.m3u8
+     Koordinat: -7.9470124795052, 112.60870793038
+---------------------------------------------------------------------------
+
+ 24. Jl. Letjend Sutoyo Arah Utara
+     Stream ID: 274808309434970115761531
+     Alamat: Jl. Letjen Sutoyo No.3b, , , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=274808309434970115761531
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/274808309434970115761531.m3u8
+     Koordinat: -7.9642636501319, 112.635084682
+---------------------------------------------------------------------------
+
+ 25. Jl. Borobudur Arah Timur
+     Stream ID: 807179387709306202506877
+     Alamat: Jl. Sudimoro No.67, Mojolangu, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65142
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=807179387709306202506877
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/807179387709306202506877.m3u8
+     Koordinat: -7.9390908860831, 112.63316259019
+---------------------------------------------------------------------------
+
+ 26. Jl. MT. Haryono Arah Barat
+     Stream ID: 373865942595202639251772
+     Alamat: Jl. MT. Haryono No.35, Dinoyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65145
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=373865942595202639251772
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/373865942595202639251772.m3u8
+     Koordinat: -7.9496715479629, 112.61520040957
+---------------------------------------------------------------------------
+
+ 27. Jl. Tlogomas Arah Timur
+     Stream ID: 704720868465795037095760
+     Alamat: Jl. Tlogomas No.61s, Tlogomas, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=704720868465795037095760
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/704720868465795037095760.m3u8
+     Koordinat: -7.9334268650853, 112.60360962848
+---------------------------------------------------------------------------
+
+ 28. Jl. Soekarno Hatta Arah Timur
+     Stream ID: 184398221253246434285173
+     Alamat: Ruko Center Point, Jl. Soekarno Hatta No.6, Mojolangu, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65142
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=184398221253246434285173
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/184398221253246434285173.m3u8
+     Koordinat: -7.937129662437, 112.62615645963
+---------------------------------------------------------------------------
+
+ 29. Jl. Cengger Ayam Arah Utara
+     Stream ID: 289833992881029327755836
+     Alamat: Jl. Kalpataru No.16, Jatimulyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=289833992881029327755836
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/289833992881029327755836.m3u8
+     Koordinat: -7.9506892197304, 112.6316346668
+---------------------------------------------------------------------------
+
+ 30. Jl. Sumber Sari Arah Utara
+     Stream ID: 639466428930627267991858
+     Alamat: Jl. Veteran No.310, Ketawanggede, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65145
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=639466428930627267991858
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639466428930627267991858.m3u8
+     Koordinat: -7.9565649765027, 112.6127142895
+---------------------------------------------------------------------------
+
+ 31. Jl. Soekarno Hatta Arah Selatan
+     Stream ID: 227920422769509645238654
+     Alamat: Jl. Soekarno Hatta No.45b, Jatimulyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=227920422769509645238654
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8
+     Koordinat: -7.9424349556736, 112.621711381
+---------------------------------------------------------------------------
+
+ 32. Jl. Kedawung Arah Timur
+     Stream ID: 032716732487147302736608
+     Alamat: Jl. Kalpataru No.94, Jatimulyo, , ,  , Indonesia, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65141
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=032716732487147302736608
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/032716732487147302736608.m3u8
+     Koordinat: -7.9508745054178, 112.63172470939
+---------------------------------------------------------------------------
+
+========================= DISTRIK SUKUN =========================
+Total Kamera: 19
+===========================================================================
+
+  1. Jl. Satsuit Tubun Arah Timur
+     Stream ID: 336686011348989661063244
+     Alamat: Jl. Nasional 23 No.24, Kebonsari, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65149
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=336686011348989661063244
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/336686011348989661063244.m3u8
+     Koordinat: -8.0200841637518, 112.61910327085
+---------------------------------------------------------------------------
+
+  2. Jl. Gadang Pasar Arah Timur
+     Stream ID: 292570058740218968707392
+     Alamat: XJGH+V49 TAMAN GADANG, Jl. Gadang Bumiayu, Gadang, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65149
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=292570058740218968707392
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8
+     Koordinat: -8.0227794419722, 112.62773707736
+---------------------------------------------------------------------------
+
+  3. JL. Ir. Rais Arah Timur
+     Stream ID: 215572611631850575823115
+     Alamat: Jl. I.R. Rais No.569, Tanjungrejo, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65116
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=215572611631850575823115
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/215572611631850575823115.m3u8
+     Koordinat: -7.9835246189301, 112.61444523284
+---------------------------------------------------------------------------
+
+  4. Jl. S. Supriyadi (Arah Klaytan III)
+     Stream ID: 045410553225288501472916
+     Alamat: Jl.S.Supriadi No.41a, Bandungrejosari, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65148
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=045410553225288501472916
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/045410553225288501472916.m3u8
+     Koordinat: -8.0058564271663, 112.6184631227
+---------------------------------------------------------------------------
+
+  5. Jl. Kol Sugiono Arah Selatan
+     Stream ID: 519874872010984433957942
+     Alamat: Jl. Kolonel Sugiono No.229, Gadang, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65148
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=519874872010984433957942
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/519874872010984433957942.m3u8
+     Koordinat: -8.0039351751878, 112.63040588491
+---------------------------------------------------------------------------
+
+  6. Jl. S. Supriadi Arah Utara
+     Stream ID: 721240097001535400904802
+     Alamat: Jl. Klayatan III No.23, Bandungrejosari, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65148
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=721240097001535400904802
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/721240097001535400904802.m3u8
+     Koordinat: -8.0059712835952, 112.6182287727
+---------------------------------------------------------------------------
+
+  7. Jl. S. Supriyadi Arah Selatan (Klaytan III)
+     Stream ID: 906088015550297661590404
+     Alamat: Jl.S.Supriadi No.39, , , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65147
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=906088015550297661590404
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/906088015550297661590404.m3u8
+     Koordinat: -8.0061651949277, 112.61858669291
+---------------------------------------------------------------------------
+
+  8. Jl. Halmahera Arah Selatan
+     Stream ID: 836708782306919156448722
+     Alamat: Jl. Halmahera No.56, Ciptomulyo, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65117
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=836708782306919156448722
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/836708782306919156448722.m3u8
+     Koordinat: -7.992390350705, 112.62829070372
+---------------------------------------------------------------------------
+
+  9. Jl. Raya Gadang Arah Selatan
+     Stream ID: 772701504430563728087236
+     Alamat: Jl. Satsui Tubun No.25, Gadang, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65149
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=772701504430563728087236
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/772701504430563728087236.m3u8
+     Koordinat: -8.0230311937224, 112.62758801291
+---------------------------------------------------------------------------
+
+ 10. Jl. S. Supriadi Arah Utara
+     Stream ID: 215178419587511478247119
+     Alamat: Jl. S. Supriadi No.15-24, Kebonsari, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65149
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=215178419587511478247119
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/215178419587511478247119.m3u8
+     Koordinat: -8.0202448789982, 112.61916730166
+---------------------------------------------------------------------------
+
+ 11. Jl. Mergan Lori Arah Selatan
+     Stream ID: 473307088033186544380122
+     Alamat: Jl. I.R. Rais No.570, Tanjungrejo, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65146
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=473307088033186544380122
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/473307088033186544380122.m3u8
+     Koordinat: -7.9835682572161, 112.61429173535
+---------------------------------------------------------------------------
+
+ 12. Jl. Janti Barat Arah Timur
+     Stream ID: 171077206204474544672476
+     Alamat: Jl. S. Supriadi No.46, Bandungrejosari, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65147
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=171077206204474544672476
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/171077206204474544672476.m3u8
+     Koordinat: -8.0004348388294, 112.61820046456
+---------------------------------------------------------------------------
+
+ 13. Jl. Halmahera Arah Selatan
+     Stream ID: 858976621501627801724527
+     Alamat: Jl. Halmahera No.9, Ciptomulyo, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65117
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=858976621501627801724527
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/858976621501627801724527.m3u8
+     Koordinat: -7.9912448241828, 112.6287927154
+---------------------------------------------------------------------------
+
+ 14. Jl. Jupri Arah Barat
+     Stream ID: 425250660135490708615779
+     Alamat: Jl. Jupri No.621, Tanjungrejo, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65147
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=425250660135490708615779
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/425250660135490708615779.m3u8
+     Koordinat: -7.9835724656652, 112.6141778857
+---------------------------------------------------------------------------
+
+ 15. Jl. Terusan Dieng Arah Barat
+     Stream ID: 077636403437244032401245
+     Alamat: UNMER Malang Park, Jl. Terusan Dieng, Pisang Candi, , Malang City, East Java , Indonesia, Kec. Sukun, 65146
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=077636403437244032401245
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245.m3u8
+     Koordinat: -7.9732569575768, 112.61281063468
+---------------------------------------------------------------------------
+
+ 16. Jl. Raya Langsep Arah Utara
+     Stream ID: 448993781462444492103703
+     Alamat: Jl. I.R. Rais No.569, Tanjungrejo, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65116
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=448993781462444492103703
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/448993781462444492103703.m3u8
+     Koordinat: -7.9834186723348, 112.61437460039
+---------------------------------------------------------------------------
+
+ 17. Jl. Kol Sugiono Arah Utara
+     Stream ID: 639503580415824340703855
+     Alamat: Jl. Raya Gadang No.237, Gadang, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65148
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=639503580415824340703855
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639503580415824340703855.m3u8
+     Koordinat: -8.0039987631844, 112.63038654257
+---------------------------------------------------------------------------
+
+ 18. Jl. S. Supriadi Arah Utara
+     Stream ID: 456402990956810340846657
+     Alamat: Jl. S. Supriadi No.46, Bandungrejosari, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65147
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=456402990956810340846657
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/456402990956810340846657.m3u8
+     Koordinat: -8.0003828080402, 112.61814488693
+---------------------------------------------------------------------------
+
+ 19. Jl. S. Supriadi Arah Selatan
+     Stream ID: 361570125945076654264551
+     Alamat: Jl. S. Supriadi No.9, Bandungrejosari, , Bandungrejosari, , ,  , Indonesia, Kec. Sukun, Kota Malang, Jawa Timur, 65147
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=361570125945076654264551
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/361570125945076654264551.m3u8
+     Koordinat: -8.0004772717642, 112.6181199413
+---------------------------------------------------------------------------
+
+========================= DISTRIK UNKNOWN =========================
+Total Kamera: 18
+===========================================================================
+
+  1. Jl Veteran Gerbang UB
+     Stream ID: 001034626224094756998994
+     Alamat: jl Veteran IV
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=001034626224094756998994
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/001034626224094756998994.m3u8
+     Koordinat: -7.9563818642762, 112.61333342204
+---------------------------------------------------------------------------
+
+  2. Jl. Terusan Sulfat Arah Barat
+     Stream ID: 051869339713065045968859
+     Alamat: Mangliyawan Jl. Kapi Woro No.44, Keduyo, Mangliawan, Kec. Pakis, Malang,  , Indonesia, Jawa Timur, 65139
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=051869339713065045968859
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/051869339713065045968859.m3u8
+     Koordinat: -7.9662925808599, 112.65969447066
+---------------------------------------------------------------------------
+
+  3. Jl Basuki Rachmad Kayutangan Zebra Cross
+     Stream ID: 383467698805698590809269
+     Alamat: Jl. Basuki Rachmad
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=383467698805698590809269
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/383467698805698590809269.m3u8
+     Koordinat: -7.9789212698058, 112.62944868195
+---------------------------------------------------------------------------
+
+  4. Jl. Cokroaminoto Arah Selatan
+     Stream ID: 560022146503564032999038
+     Alamat: Jl. Cokroaminoto Arah Selatan
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=560022146503564032999038
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/560022146503564032999038.m3u8
+     Koordinat: -7.969093822222444, 112.63616972125855
+---------------------------------------------------------------------------
+
+  5. Kampung Tridi
+     Stream ID: 756753165339510713064459
+     Alamat: Kampung Tridi
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=756753165339510713064459
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/756753165339510713064459.m3u8
+     Koordinat: -7.982161852701667, 112.63808362627057
+---------------------------------------------------------------------------
+
+  6. Jl. Danau Kerinci Arah Utara
+     Stream ID: 892431741317523091394671
+     Alamat: C2/F17, Jl. Danau Kerinci Raya, Keduyo, Sawojajar, Pakis, Malang City, East Java , Indonesia, 65154
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=892431741317523091394671
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/892431741317523091394671.m3u8
+     Koordinat: -7.9712337609891, 112.66411783584
+---------------------------------------------------------------------------
+
+  7. Jl. Wahidin Arah Utara
+     Stream ID: 028590945630518341489747
+     Alamat: Jl. Wahidin Arah Utara
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=028590945630518341489747
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/028590945630518341489747.m3u8
+     Koordinat: -7.9691442912965, 112.63630916385
+---------------------------------------------------------------------------
+
+  8. Jl. Kawi Arah Barat
+     Stream ID: 060929711024394280433963
+     Alamat: Jl. Kawi Arah Barat
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=060929711024394280433963
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/060929711024394280433963.m3u8
+     Koordinat: -7.9808202773976085, 112.62762728831831
+---------------------------------------------------------------------------
+
+  9. Jl. Hasyim Ashari Arah Selatan
+     Stream ID: 584894580391537462827774
+     Alamat: Jl. Hasyim Ashari Arah Selatan
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=584894580391537462827774
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/584894580391537462827774.m3u8
+     Koordinat: -7.98100091568454, 112.62764875379338
+---------------------------------------------------------------------------
+
+ 10. Jembatan TunggulMas arah Raya Tlogomas
+     Stream ID: 097779292771471341955457
+     Alamat: Jl. Raya Tlogomas
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=097779292771471341955457
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/097779292771471341955457.m3u8
+     Koordinat: -7.9263343108193, 112.60173586196
+---------------------------------------------------------------------------
+
+ 11. Jl. Dr. Cipto Arah Timur
+     Stream ID: 415137702904772359230669
+     Alamat: Jl. Dr. Cipto Arah Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=415137702904772359230669
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/415137702904772359230669.m3u8
+     Koordinat: -7.969302590401329, 112.6362378969598
+---------------------------------------------------------------------------
+
+ 12. Jl. Terusan Sulfat Arah Timur
+     Stream ID: 376999423683784934238325
+     Alamat: POJOK RUKO BTI SAWOJAJAR MAS NO, Keduyo, Mangliawan, Kec. Pakis, Malang,  , Indonesia, Jawa Timur, 65139
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=376999423683784934238325
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/376999423683784934238325.m3u8
+     Koordinat: -7.9663969164311, 112.65986963118
+---------------------------------------------------------------------------
+
+ 13. Taman Ijen 2
+     Stream ID: 611606309979396608294034
+     Alamat: Jl. Besar Ijen
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=611606309979396608294034
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/611606309979396608294034.m3u8
+     Koordinat: -7.9665759290361, 112.62426270159
+---------------------------------------------------------------------------
+
+ 14. Jl Veteran Gerbang UB
+     Stream ID: 767576969564466612969572
+     Alamat: Jl Veteran III
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=767576969564466612969572
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/767576969564466612969572.m3u8
+     Koordinat: -7.9563021725895, 112.61323686252
+---------------------------------------------------------------------------
+
+ 15. Jl Retawu Arah Museum
+     Stream ID: 996051630808365936867998
+     Alamat: Jl Retawu I
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=996051630808365936867998
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/996051630808365936867998.m3u8
+     Koordinat: -7.9717736667782, 112.62144370125
+---------------------------------------------------------------------------
+
+ 16. Jl Veteran Depan Matos
+     Stream ID: 203191103351222911095423
+     Alamat: Jl Veteran I
+     Tipe: Umum
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=203191103351222911095423
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/203191103351222911095423.m3u8
+     Koordinat: -7.9574683260931, 112.61883999679
+---------------------------------------------------------------------------
+
+ 17. Jl. AR. Hakim Arah Timur
+     Stream ID: 079331433202834680650395
+     Alamat: Jl. AR. Hakim Arah Timur
+     Tipe: Persimpangan
+     Prioritas: Tinggi
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=079331433202834680650395
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/079331433202834680650395.m3u8
+     Koordinat: -7.980841541881919, 112.62731615991213
+---------------------------------------------------------------------------
+
+ 18. Jl. LA Sucipto Arah Timur (Perbatasan)
+     Stream ID: 886421518518743577298499
+     Alamat: Jl. Raya Wendit Barat No.1, Lowoksoro, Mangliawan, Kec. Pakis, ,  , Indonesia, Kota Malang, Jawa Timur, 65154
+     Tipe: Jalan
+     Prioritas: Normal
+     Status: Aktif
+     WebRTC URL: http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=886421518518743577298499
+     HLS URL: http://stream.cctv.malangkota.go.id/WebRTCApp/streams/886421518518743577298499.m3u8
+     Koordinat: -7.9502961908227, 112.66467304435
+---------------------------------------------------------------------------
